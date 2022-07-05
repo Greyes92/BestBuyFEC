@@ -1,0 +1,27 @@
+[submodule "header-search-footer"]
+     path = /header-search-footer
+     url = https://github.com/Greyes92/header-search-footer.git
+
+[submodule "OverviewSection"]
+     path = /OverviewSection
+     url = https://github.com/Greyes92/OverviewSection.git
+
+[submodule "people-also-view"]
+     path = /people-also-view
+     url = https://github.com/Greyes92/people-also-view.git
+
+[submodule "Photo-Gallery-and-Cart"]
+     path = /Photo-Gallery-and-Cart
+     url = https://github.com/Greyes92/Photo-Gallery-and-Cart.git
+
+[submodule "questions_answers"]
+     path = /questions_answers
+     url = https://github.com/Greyes92/questions_answers.git
+
+[submodule "ReviewSection"]
+     path = /ReviewSection
+     url = https://github.com/Greyes92/ReviewSection.git
+
+[submodule "specifications"]
+     path = /specifications
+     url = https://github.com/Greyes92/specifications.git
